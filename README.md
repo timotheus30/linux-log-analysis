@@ -19,8 +19,8 @@ My project is a Bash script that analyzes Linux authentication logs to detect fa
 1. Make the script executable:
    ```bash
    chmod +x log_analyzer.sh
-sudo ./log_analyzer.sh
-sudo ./log_analyzer.sh > security_report.txt
+   sudo ./log_analyzer.sh
+   sudo ./log_analyzer.sh > security_report.txt
 
 ## Learning Outcomes
 - Parsed Linux log files using grep and awk
