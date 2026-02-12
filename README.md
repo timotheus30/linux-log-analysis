@@ -25,8 +25,8 @@ My project is a Bash script that analyzes Linux authentication logs to detect fa
 ## Screenshots
 
 ![Failed Login Report](failed_logins.png.png)
-![Number of Failed Logins](number of failed logins.png.png)
-![Top IPs](top ips.png.png)
+![Number of Failed Logins](number_of_failed_logins.png)
+![Top IPs](top_ips.png)
 
 
 
