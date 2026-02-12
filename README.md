@@ -23,9 +23,10 @@ My project is a Bash script that analyzes Linux authentication logs to detect fa
    sudo ./log_analyzer.sh > security_report.txt
 
 ## Screenshots
-![Failed Login Report](linuxlogs.png/failed_logins.png.png)
-![Number of Failed Logins](linuxlogs.png/number%20of%20failed%20logins.png.png)
-![Top IPs](linuxlogs.png/top%20ips.png.png)
+
+![Failed Login Report](failed_logins.png.png)
+![Number of Failed Logins](number of failed logins.png.png)
+![Top IPs](top ips.png.png)
 
 
 
